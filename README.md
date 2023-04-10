@@ -1,4 +1,4 @@
-### Hi there 👋
+### :sparkles: Hi there! I'm Ma. Christina J. Galvez, a recent graduate of BS Computer Science from the University of the Philippines Manila! :sparkles:
 
 <!--
 **galvez-mcj/galvez-mcj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### 🔍️ I'm currently looking for any Junior/ Associate Role for Software Engineering/ Development
+
+
+#### :white_check_mark: I know Python, Java, JavaScript, CSS, HTML, JSON, MySQL, MongoDB
+#### :technologist: I am very passionate about learning new technologies and is excited to enhance my skills by working in a professional environment!
+
+
+#### 🌱 I’m currently brushing up my web development skills by trying out new libraries and frameworks such as Flask, React, Node, and Express.
+#### :pushpin: You can learn more about me by visiting https://galvez-mcj.netlify.app/
