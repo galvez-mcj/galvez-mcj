@@ -1,4 +1,5 @@
-### :sparkles: Hi there! I'm Ma. Christina J. Galvez, a recent graduate of BS Computer Science from the University of the Philippines Manila! :sparkles:
+<h1> :sparkles: Hi there! I'm Ma. Christina J. Galvez :sparkles: <img align="right" src="https://komarev.com/ghpvc/?username=galvez-mcj&color=blue" alt="galvez-mcj"/> </h1>
+<h2> A recent graduate of BS Computer Science from the University of the Philippines Manila! </h2>
 
 <!--
 **galvez-mcj/galvez-mcj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,4 +24,4 @@ Here are some ideas to get you started:
 
 
 #### 🌱 I’m currently brushing up my web development skills by trying out new libraries and frameworks such as Flask, React, Node, and Express.
-#### :pushpin: You can learn more about me by visiting https://galvez-mcj.netlify.app/
+#### :pushpin: You can learn more about me by exploring my github profile or by visiting https://galvez-mcj.netlify.app/
