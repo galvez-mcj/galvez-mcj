@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 #### :technologist: I am very passionate about learning new technologies and is excited to enhance my skills by working in a professional environment!
 
 
-#### 🌱 I’m currently brushing up my web development skills by trying out new libraries and frameworks such as Flask, React, Node, and Express.
+#### 🌱 I’m currently brushing up my skills by studying DSA, and OOP with Java 17, while waiting for a contract as a Research Assistant for the University. 
 
