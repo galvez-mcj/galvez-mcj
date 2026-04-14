@@ -1,5 +1,5 @@
 <h1> :sparkles: Hi there! I'm Mac Galvez :sparkles: <img align="right" src="https://komarev.com/ghpvc/?username=galvez-mcj&color=blue" alt="galvez-mcj"/> </h1>
-<h2> I'm an Information Systems Audit Associate working under the Internal Audit Group of a big bank in the Philippines! </h2>
+<h2> I'm an Information Systems Audit Officer working under the Internal Audit Group of a big bank in the Philippines! </h2>
 
 <!--
 **galvez-mcj/galvez-mcj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 #### :white_check_mark: I'm a graduate of BS Computer Science from the University of the Philippines Manila.
-#### ⚡I know Python, MySQL, MongoDB.
+#### ⚡I know ACL, Python, MySQL.
 #### :technologist: I am very passionate about learning new technologies and is excited to apply my skills inside internal audit!
 
 #### 🔭 I plan to be a Certified Information Systems Auditor (CISA) by 2026.
