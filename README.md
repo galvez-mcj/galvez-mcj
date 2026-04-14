@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### 🔍️ I'm currently familiarizing myself with the operations of the bank and its IT environment. 
+#### 🔍️ I'm still learning the operations of the bank and its IT environment to provide better recommendations.
 
 
 #### :white_check_mark: I'm a graduate of BS Computer Science from the University of the Philippines Manila.
